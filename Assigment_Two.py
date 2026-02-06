@@ -179,4 +179,4 @@ top_average_blocks = make_top_100_player_list(39)
 top_average_steals = make_top_100_player_list(40)
 
 
-
+print(player_stats)
